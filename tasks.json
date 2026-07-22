@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Complete Python Assignment",
+        "due": "2026-07-22",
+        "completed": true
+    },
+    {
+        "title": "Attempt next DSA que",
+        "due": "2026-07-22",
+        "completed": false
+    }
+]
